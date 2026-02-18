@@ -5,13 +5,9 @@
 ---
 
 ## 🛠️ Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![HTML](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css&theme=dark" />
+</p>
 
 ---
 
