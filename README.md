@@ -1,6 +1,6 @@
 # 👋 Pedro Alves  
 
-💻 Fullstack em evolução  
+💻 Fullstack
 
 ---
 
